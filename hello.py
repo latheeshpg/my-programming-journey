@@ -1,5 +1,8 @@
-name = "Latheesh"
-
 print("Hello, GitHub!")
-print(f"My name is {name}.")
-print("I am learning Python and AI/ML.")
+
+name = "Latheesh"
+course= "CSE -AI & ML"
+
+print("My name is", name)
+print(f"I am studying", course)
+print("This is my first project using Git!")
