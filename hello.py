@@ -1,4 +1,4 @@
-print("Hello, GitHub!")
+print("Hello, latheeshh!")
 
 name = "Latheesh"
 course= "CSE -AI & ML"
